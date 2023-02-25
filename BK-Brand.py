@@ -159,7 +159,7 @@ def menu(my_id):
 	sg = ''
 	fx = mark(sg, style='bold green')
 	sol().print(fx)
-	 """\033[1;31m 01 CRACK PUBLIC
+	BK = """\033[1;31m 01 CRACK PUBLIC
 		\033[1;31m 02 CRACK PUBLIC (MULTI)
 		\033[1;37m 03 CRACK FOLLOWERS
 		\033[1;97m 04 CRACK FILE
